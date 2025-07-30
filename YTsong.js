@@ -40,7 +40,7 @@ cmd(
     }
   ) => {
     try {
-      if (!q) return reply("*නමක් හරි ලින්ක් එකක් හරි දෙන්න* 🌚❤️");
+      if (!q) return reply("*gayan madura* ");
 
       // Search for the video
       const search = await yts(q);
